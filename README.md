@@ -1,4 +1,4 @@
-```markdown
+
 # Chronic Diseases Prediction
 
 ## 🚀 Project Overview

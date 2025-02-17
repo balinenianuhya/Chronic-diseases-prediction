@@ -26,12 +26,6 @@ The dataset consists of medical records with various health-related features. Th
 ### Target Variable:
 - **Disease Presence**: Binary classification (0: No Disease, 1: Disease Present)
 
-## 🛠 Installation
-Ensure you have the required dependencies installed:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-```
-
 ## 🔬 Data Preprocessing
 - Handling missing values with mean/median imputation
 - Removing or capping outliers based on IQR
@@ -63,7 +57,4 @@ Hyperparameter tuning is performed using GridSearchCV for optimal performance.
 ## 🤝 Contribution
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## 📜 License
-This project is open-source and available under the MIT License.
-```
 

@@ -61,7 +61,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/balinenianuhya/chronic-diseases.git
-   cd employee-attrition
+   cd chronic-diseases
 
 ## 📬 Contact
 If you have any questions, feel free to reach out!
